@@ -1,0 +1,7 @@
+A) Napisz kwerendę wypisującą listę imion i nazwisk wszystkich pracowników
+B) Napisać kwerendę wypisującą pracowników od A do Z i posortować po nazwisku
+C) Napisać kwerendę pracowników pogrupowanych po firmie
+D) Napisać kwerendę wypisującą liczbę firm w bazie
+E) Napisać kwerendę wyświetlającą średnią liczbę pracowników na firmę
+F) napisz kwerendę podającą top 10 miast z których pochodzi najwięcej klientów
+G) napisz kwerendę podającą średnie wynagrodzenie pracowników pogrupowanych per firma per departament

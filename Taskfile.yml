@@ -1,0 +1,11 @@
+version: 3
+
+tasks:
+  default:
+    cmds:
+      - task -l
+
+  start:
+    desc: Start SQL
+    cmds:
+      - docker-compose up -d
